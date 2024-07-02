@@ -11,13 +11,13 @@
   <a href="https://twitter.com/Winfredwinzz17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/allwin.winfred.jacob.manohar/" target="_blank">
+  <a href="https://www.facebook.com/allwin.winfred.j/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="https://medium.com/@allwinwinfred" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="https://www.instagram.com/allwin_winfred_jacob_manohar/" target="_blank">
+  <a href="https://www.instagram.com/allwin_winfred_j/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="allwinwinfred17@gmail.com" target="_blank">
